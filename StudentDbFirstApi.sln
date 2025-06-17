@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDbFirstApi", "StudentDbFirstApi\StudentDbFirstApi.csproj", "{BC1503CA-C905-4DA6-9549-FAB68F3F5FD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1503CA-C905-4DA6-9549-FAB68F3F5FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1503CA-C905-4DA6-9549-FAB68F3F5FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1503CA-C905-4DA6-9549-FAB68F3F5FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1503CA-C905-4DA6-9549-FAB68F3F5FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9BFED5-6AC4-424D-90B2-89BC9216ADC8}
+	EndGlobalSection
+EndGlobal
